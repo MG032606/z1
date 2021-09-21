@@ -1,3 +1,3 @@
-console.log("witam");
+console.log("witam z zadanie 2");
 
 
